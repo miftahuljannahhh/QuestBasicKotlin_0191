@@ -5,3 +5,6 @@ Variable
 
 StringTemplate
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/bd4d1240-98d2-4cc1-bc61-1320a005ba85" />
+
+TipeDataDasar
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/ce426b2b-40b8-440b-816c-92c84fb71a66" />
