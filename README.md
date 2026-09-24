@@ -12,3 +12,5 @@ TipeDataDasar
 CollectionList
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/1c85d172-3e6b-40d7-b6fe-df4e4560483c" />
 
+CollectionMap
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/08e00a42-0ffb-4b0b-9fdc-2ae1c0f3f37b" />
