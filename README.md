@@ -8,3 +8,7 @@ StringTemplate
 
 TipeDataDasar
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/ce426b2b-40b8-440b-816c-92c84fb71a66" />
+
+CollectionList
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/1c85d172-3e6b-40d7-b6fe-df4e4560483c" />
+
