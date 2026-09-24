@@ -14,3 +14,7 @@ CollectionList
 
 CollectionMap
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/08e00a42-0ffb-4b0b-9fdc-2ae1c0f3f37b" />
+
+ConditioanlExpressions
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/c1a4cdef-0eb7-4e21-a447-cd55d2456ecf" />
+
