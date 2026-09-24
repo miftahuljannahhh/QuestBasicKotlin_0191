@@ -2,3 +2,6 @@
 
 Variable
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/b2ef071f-ec92-425e-86f2-01cd67f51913" />
+
+StringTemplate
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/bd4d1240-98d2-4cc1-bc61-1320a005ba85" />
